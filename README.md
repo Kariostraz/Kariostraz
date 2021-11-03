@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kariostraz
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning in KS №54
+- 🌱 I’m currently learning in KC №54
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me using Discord - Cariostraz #7702
 
